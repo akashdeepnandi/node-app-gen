@@ -1,0 +1,14 @@
+{
+  "name": "node-app-gen",
+  "version": "1.0.0",
+  "description": "A node.js project generator used for scaffolding different node.js project",
+  "main": "index.js",
+  "author": "Akashdeep Nandi",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "bin": {
+    "create-node-app": "./index.js"
+  }
+}
