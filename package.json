@@ -1,6 +1,6 @@
 {
   "name": "node-app-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node.js project generator used for scaffolding different node.js project",
   "main": "index.js",
   "author": "Akashdeep Nandi <akashdeep.nandi.dev@gmail.com>",
