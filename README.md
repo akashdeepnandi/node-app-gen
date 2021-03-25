@@ -26,9 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!-- <a href="https://github.com/akashdeepnandi/node-app-gen">
-    <img src="" alt="Logo" width="80" height="80">
-  </a> -->
+  <!-- <a href="https://github.com/akashdeepnandi/node-app-gen"></a> -->
 
   <h3 align="center">node-app-gen</h3>
 
@@ -115,11 +113,28 @@ You can use this package by installing it globally or you may use npx as well.
   npm i -g node-app-gen
   # or
   yarn add -g node-app-gen
+  # then use
+  node-app-gen
   ```
 - npx (Recommended way)
   ```sh
   npx node-app-gen
   ```
+
+You will be propmpted with these questions
+
+- Project template
+<p align="center">
+<img src="https://raw.githubusercontent.com/akashdeepnandi/image-bucket/main/node-app-gen/step1.png" alt="Logo"></p>
+
+- Project Name
+<p align="center">
+<img src="https://raw.githubusercontent.com/akashdeepnandi/image-bucket/main/node-app-gen/step2.png" alt="Logo"></p>
+
+Open the project with your favourite code editor
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/akashdeepnandi/image-bucket/main/node-app-gen/step3.png" alt="Logo"></p>
 
 ## Roadmap
 
